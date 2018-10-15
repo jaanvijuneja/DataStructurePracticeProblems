@@ -1,1 +1,1 @@
-# DatabasePracticeProblems
+# DataStructurePracticeProblems
